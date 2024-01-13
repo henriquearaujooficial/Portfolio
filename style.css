@@ -256,7 +256,7 @@ section.sobre .flex {
   border-radius: 5%;
 }
 
-.btn-social button {
+.sobre .txt-sobre .btn-social button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -365,16 +365,12 @@ form .btn-enviar input {
 /* ESTILO DO RODAPÉ */
 
 footer {
-  padding: 40px 4%;
+  padding: 10px 4%;
   box-shadow: 0 0 40px 10px #ffffff1d;
 }
 
-footer .flex {
-  justify-content: space-between;
-}
-
 footer .line-footer {
-  padding: 20px 0;
+  padding: 5px 0;
 }
 
 .borda {
