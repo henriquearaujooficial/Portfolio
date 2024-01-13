@@ -257,8 +257,8 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre .btn-social button {
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   border-radius: 50%;
   border: none;
   background-color: #00ff08;
@@ -445,6 +445,7 @@ footer .line-footer p a {
   .btn-social {
     text-align: center;
   }
+  
   .btn-social button {
     width: 40px;
     height: 40px;
