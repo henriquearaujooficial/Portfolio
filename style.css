@@ -349,17 +349,22 @@ form textarea {
 }
 
 form .btn-enviar {
-  margin-top: 20px;
+  margin-top: 30px;
   text-align: center;
 }
 
 form .btn-enviar input {
-  width: 120px;
+  width: 9ß0px;
+  height: 60px;
+  font-size: 16px;
   background-color: #00ff08;
   color: #000;
   font-weight: 700;
   cursor: pointer;
   transition: 0.2s;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
 }
 
 /* ESTILO DO RODAPÉ */
