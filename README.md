@@ -7,5 +7,6 @@ Esse Projeto trás uma playlist de informações onde você terá acesso a vári
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
-![Portfólio]()
+![Portfólio](https://github.com/henriquearaujooficial/Portfolio/blob/master/portfolio.png)
